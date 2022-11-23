@@ -21,6 +21,3 @@ if __name__ == '__main__':
     # root.run()
 
     PongApp().run()
-
-print('z')
-
